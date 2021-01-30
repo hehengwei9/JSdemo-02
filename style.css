@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.demo{
+    
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+body{
+    border: 1px solid pink;
+    height: 100vh;
+}
